@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moeinset
+- 👋 Hi, I’m moein (you can call me levin!)
 - 👀 I’m a medical doctor who interested in AI and how bring it in medicine and health.
 - 🌱 I’m currently learning deeplearning concepts,methods and tools in medical image analysis.
 - 💞️ I’m looking to collaborate on everithings that are in the field of tech and medicine.
