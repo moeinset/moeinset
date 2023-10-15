@@ -1,6 +1,6 @@
 - 👋 Hi, I’m moein (you can call me levin!)
-- 👀 I’m a medical doctor who interested in AI and how bring it in medicine and health.
-- 🌱 I’m currently learning deeplearning concepts,methods and tools in medical image analysis.
+- 👀 I am a medical doctor with technical understanding and skills,  
+- 🌱 studying a master's in medical engineering and analytics,and passionate about artificial intelligence and its use in medicine and health.
 - 💞️ I’m looking to collaborate on everithings that are in the field of tech and medicine.
 - 📫 How to reach me :
 - gmail: m.kermani1991@gmail.com
