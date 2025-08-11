@@ -82,7 +82,6 @@
 ## 📫 Contact
 - 📧 Email: m.kermani1991@gmail.com  
 - 🔗 LinkedIn: [moein-kermanizadeh-tavakoli](https://www.linkedin.com/in/moein-kermanizadeh-tavakoli-7a392282/)
-- 
 ---
 
 
