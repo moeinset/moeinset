@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Moein (Levin)
-
-I’m a **medical doctor** with a **Master’s in Medical Engineering & Analytics**, currently pursuing my **PhD in Visual Neuroscience**.  
-My passion: building **AI-powered solutions** for medicine, neuroscience, and health — from **3D brain MRI** to **retinal vessel dynamics**.
-My Moto: *“Medicine is an art, science is a tool — AI is the bridge.”*
+*“Medicine is an art, science is a tool — AI is the bridge.”*
 ---
 
 ## 🔍 About Me
