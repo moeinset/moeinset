@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Moein (Levin)
-*“Medicine is an art, science is a tool — AI is the bridge.”*
+*“Medicine is an art, science is its foundation— AI is the bridge.”*
 ---
 
 ## 🔍 About Me
